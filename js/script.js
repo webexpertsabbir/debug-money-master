@@ -55,3 +55,5 @@ const calculateSavings = () => {
     document.getElementById("remaining-balance").innerText = remainingBalance;
   }
 };
+
+console.log('hello')
